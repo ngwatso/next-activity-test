@@ -1,2 +1,2 @@
-# next-activity-test
+# curr-activity-countdown-timer
 Created with CodeSandbox
